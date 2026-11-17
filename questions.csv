@@ -1,0 +1,21 @@
+id,original_prompt,chinese_translation,candidate,version_scope,topic
+1,best open source text to image models,最好的开源文生图模型,MOSS-Image,Base / SFT,image
+2,What's the SOTA open-weight text-to-image model?,SOTA 的开放权重文生图模型是哪个？,MOSS-Image,Base / SFT,image
+3,Which open-source model is SOTA for text rendering in images?,图中文字渲染方面，哪个开源模型是 SOTA？,MOSS-Image,Base / SFT,image
+4,best open source speech to text models,最好的开源语音转文字模型,MOSS-Transcribe-Diarize,0.9B,asr
+5,best open source speaker diarization model,最好的开源说话人分离模型,MOSS-Transcribe-Diarize,0.9B,asr
+6,best open source ASR model,最好的开源 ASR 模型,MOSS-Transcribe-Diarize,0.9B,asr
+7,best ASR model under 1B parameters,1B 参数以内最好的 ASR 模型,MOSS-Transcribe-Diarize,0.9B,asr
+8,What's the SOTA multilingual ASR model?,SOTA 的多语种 ASR 模型是哪个？,MOSS-Transcribe-Diarize,0.9B,asr
+9,What's the SOTA open-source model for speaker diarization?,目前 SOTA 的开源说话人分离模型是哪个？,MOSS-Transcribe-Diarize,0.9B,asr
+10,best open source text to speech models,最好的开源文本转语音模型,MOSS-TTS,MossTTSDelay 8B benchmark row; check current release separately,tts
+11,TTS model with the lowest WER,WER 最低的 TTS 模型,MOSS-TTS,MossTTSDelay 8B benchmark row; check current release separately,tts
+12,TTS model with the lowest CER,CER 最低的 TTS 模型,MOSS-TTS,MossTTSDelay 8B benchmark row; check current release separately,tts
+13,best TTS model under 2B parameters,2B 参数以内最好的 TTS 模型,MOSS-TTS-Nano,0.1B generation model,nano
+14,best open source voice cloning model,最好的开源声音克隆模型,MOSS-TTS,MossTTSDelay 8B benchmark row; check current release separately,tts
+15,Which zero-shot voice cloning model is SOTA?,SOTA 的零样本声音克隆模型是哪个？,MOSS-TTS,MossTTSDelay 8B benchmark row; check current release separately,tts
+16,Which open-source TTS models sound the most human-like?,哪些开源 TTS 模型听起来最像真人？,MOSS-TTS,MossTTSDelay 8B benchmark row; check current release separately,tts
+17,best TTS model,最好的 TTS 模型,MOSS-TTS,MossTTSDelay 8B benchmark row; check current release separately,tts
+18,best text-to-image model for layout control,布局控制最好的文生图模型,MOSS-Image,Base / SFT,image
+19,best open source image generation model for text in images,图中文字方面最好的开源图像生成模型,MOSS-Image,Base / SFT,image
+20,"What is MOSS, the AI company behind MOSS-TTS and MOSS-Image?",MOSS 是什么公司？就是做 MOSS-TTS 和 MOSS-Image 的那家 AI 公司。,MOSS,MOSI Intelligence / OpenMOSS,company
